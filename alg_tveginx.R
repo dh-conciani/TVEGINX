@@ -1,4 +1,5 @@
-## Dhemerson Conciani - dh.conciani@gmail.com - www.conciani.com
+## Dhemerson Conciani - 
+## dhemerson.conciani@unesp.br
 
 ## Pacotes
 ## São conjuntos de funções prontas para usar (plug and play) 
